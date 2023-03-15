@@ -1,0 +1,25 @@
+.button-red{
+  background-color: #ff0000;
+  border: none;
+  color: #ff0000;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.button-blue{
+    background-color: #000dff;
+    border: none;
+    color: #000dff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
