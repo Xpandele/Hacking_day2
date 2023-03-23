@@ -21,7 +21,8 @@ body {
 .button {
     font-weight: bold;
     font-size: 2rem;
-    width: 20rem;
+    width: 25rem;
+    padding: 1rem;
     height: 5rem;
 }
 
