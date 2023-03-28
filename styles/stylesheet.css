@@ -1,8 +1,4 @@
-* {
-    font-family: Verdana, Helvetica, Arial, sans-serif;
-    padding: 0;
-    margin: 0;
-}
+@import 'reset.css';
 
 body {
     height: 100vh;
