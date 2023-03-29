@@ -1,15 +1,17 @@
+@import 'reset.css';
+
 img {
-    width: 50%;
-    position: relative;
-    left: 25%;
+    width: 50em;
 }
 
-h1{
-    position: relative;
-    left: 44%;
+.container {
+    display: flex;
+    justify-content: center;
 }
 
-h2{
-    position: relative;
-    left: 22%;
+body {
+    background-image: url(https://www.economistjurist.es/wp-content/uploads/sites/2/2022/03/1366_2000.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
 }

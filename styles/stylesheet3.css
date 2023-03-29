@@ -1,0 +1,21 @@
+@import 'reset.css';
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoW4OeyplPAkkbeEMahYGG8TN7clecrm0tcrFm_2qtEMO8VZgIA3u3lOI9Xe3HMwAlkQ0&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    text-shadow: 0.5rem 0.5rem 0.5rem black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 5em;
+    color: rgb(255, 128, 0);
+    text-shadow: 0.5rem 0.5rem 0.5rem black;
+}
